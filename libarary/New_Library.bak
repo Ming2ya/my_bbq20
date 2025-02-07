@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" ""
-			(at 0 0 0)
+			(at 6.35 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 0)
+			(at 6.35 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 6.35 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 6.35 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -334,7 +334,7 @@
 				)
 			)
 			(pin power_in line
-				(at -2.54 -2.54 270)
+				(at 5.08 -2.54 270)
 				(length 3.81)
 				(name "DVDD"
 					(effects
@@ -730,8 +730,8 @@
 				)
 			)
 			(pin power_in line
-				(at 7.62 -2.54 270)
-				(length 3.81)
+				(at -22.86 -11.43 0)
+				(length 3.81) hide
 				(name "ADC_AVDD"
 					(effects
 						(font
@@ -766,7 +766,7 @@
 				)
 			)
 			(pin power_out line
-				(at -5.08 -2.54 270)
+				(at -2.54 -2.54 270)
 				(length 3.81)
 				(name "VREG_VOUT"
 					(effects
@@ -820,8 +820,8 @@
 				)
 			)
 			(pin power_in line
-				(at 5.08 -2.54 270)
-				(length 3.81)
+				(at -22.86 -11.43 0)
+				(length 3.81) hide
 				(name "USB_VDD"
 					(effects
 						(font
@@ -874,7 +874,7 @@
 				)
 			)
 			(pin passive line
-				(at -2.54 -2.54 270)
+				(at 5.08 -2.54 270)
 				(length 3.81) hide
 				(name "DVDD"
 					(effects
