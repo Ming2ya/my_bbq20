@@ -10001,7 +10001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.275x5.275mm_P1.27mm"
+		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
 			(at 44.45 172.72 0)
 			(effects
 				(font
@@ -10034,9 +10034,6 @@
 		(pin "8"
 			(uuid "b89ecc02-a5a4-4d4d-90cc-54878df67580")
 		)
-		(pin "9"
-			(uuid "d2dd03ea-ddc9-44bd-92ee-664aaf9a58f0")
-		)
 		(pin "1"
 			(uuid "fb9c13e1-a39b-4d81-881d-6cbf1b0cb098")
 		)
@@ -10054,6 +10051,9 @@
 		)
 		(pin "4"
 			(uuid "7a3eca48-ca83-4b47-ba5b-466e8597c471")
+		)
+		(pin "9"
+			(uuid "802601e7-9d1e-431f-9d4a-8b6890be44da")
 		)
 		(instances
 			(project ""

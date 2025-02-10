@@ -1062,6 +1062,42 @@
 						)
 					)
 				)
+				(pin no_connect line
+					(at -15.24 -17.78 0)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "38"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -15.24 -20.32 0)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "39"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 				(pin output line
 					(at 15.24 -7.62 180)
 					(length 2.54)
@@ -4416,6 +4452,12 @@
 		(pin "4"
 			(uuid "1e62b5e8-6759-4735-889d-d01f8fa29c2e")
 		)
+		(pin "38"
+			(uuid "cc65e92e-a3ba-4b31-8157-fc7c84f0934c")
+		)
+		(pin "39"
+			(uuid "a7f0ded3-3227-4ce9-8d53-2e9f46cad244")
+		)
 		(instances
 			(project ""
 				(path "/9cb59c1c-3f16-4fc8-8e14-5089e3b6ad71/dad46d0a-22b9-4133-b417-9fdda3ca9b79"
@@ -4915,7 +4957,6 @@
 	(symbol
 		(lib_id "Transistor_FET:BSS138")
 		(at 130.81 92.71 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4923,7 +4964,7 @@
 		(dnp no)
 		(uuid "6329f748-68b8-4fa0-bf77-060446129a8e")
 		(property "Reference" "Q6"
-			(at 129.286 89.408 0)
+			(at 129.286 96.012 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4939,7 +4980,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 135.89 90.805 0)
+			(at 135.89 94.615 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4950,7 +4991,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
-			(at 135.89 88.9 0)
+			(at 135.89 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
