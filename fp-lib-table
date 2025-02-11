@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Connector_PinHeader_2.54mm_Extra")(type "KiCad")(uri "${KIPRJMOD}/libarary/Connector_PinHeader_2.54mm_Extra.pretty")(options "")(descr ""))
   (lib (name "RP2040")(type "KiCad")(uri "${KIPRJMOD}/libarary/RP2040")(options "")(descr ""))
   (lib (name "BM20B_0")(type "KiCad")(uri "${KIPRJMOD}/libarary/BM20B_0")(options "")(descr ""))
+  (lib (name "my_footprint")(type "KiCad")(uri "${KIPRJMOD}/libarary/my_footprint.pretty")(options "")(descr ""))
 )

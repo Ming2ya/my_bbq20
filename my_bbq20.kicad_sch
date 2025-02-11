@@ -1865,24 +1865,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 8.89 10.16 0)
+			(property "Reference" "U3"
+				(at 0 13.97 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
 			(property "Value" "W25Q64JV"
-				(at 0 -10.16 0)
+				(at 0 11.43 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+			(property "Footprint" "Connector_PinHeader_2.54mm_Extra:my_WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
 				(at 0 -12.7 0)
 				(effects
 					(font
@@ -2060,24 +2059,6 @@
 						)
 					)
 					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -11.43 -6.35 0)
-					(length 2.54) hide
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2871,7 +2852,7 @@
 				(pin bidirectional line
 					(at -22.86 -36.83 0)
 					(length 3.81)
-					(name "USB_DM"
+					(name "USB_D-"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2889,7 +2870,7 @@
 				(pin bidirectional line
 					(at -22.86 -34.29 0)
 					(length 3.81)
-					(name "USB_DP"
+					(name "USB_D+"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5891,7 +5872,7 @@
 		)
 		(uuid "047f237f-96d4-48e5-b6d8-60079d35daa0")
 	)
-	(label "COL7"
+	(label "COL3"
 		(at 156.21 80.01 0)
 		(effects
 			(font
@@ -5951,7 +5932,7 @@
 		)
 		(uuid "0eb1feba-648e-4d3b-8ae2-a7db23e551cc")
 	)
-	(label "COL6"
+	(label "COL4"
 		(at 156.21 77.47 0)
 		(effects
 			(font
@@ -6321,7 +6302,7 @@
 		)
 		(uuid "a337289c-e6da-4be7-bca8-17d71103e072")
 	)
-	(label "COL4"
+	(label "COL6"
 		(at 156.21 72.39 0)
 		(effects
 			(font
@@ -6541,7 +6522,7 @@
 		)
 		(uuid "f3416800-df61-4448-a6b5-dfc5f69eeade")
 	)
-	(label "COL3"
+	(label "COL7"
 		(at 156.21 69.85 0)
 		(effects
 			(font
@@ -7076,7 +7057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal"
+		(property "Footprint" "my_footprint:Pmod_PinHeader_1x06_P2.54mm_Horizontal"
 			(at 125.73 166.37 0)
 			(effects
 				(font
@@ -10601,7 +10582,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+		(property "Footprint" "my_footprint:my_WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
 			(at 44.45 172.72 0)
 			(effects
 				(font
@@ -10651,9 +10632,6 @@
 		)
 		(pin "4"
 			(uuid "7a3eca48-ca83-4b47-ba5b-466e8597c471")
-		)
-		(pin "9"
-			(uuid "802601e7-9d1e-431f-9d4a-8b6890be44da")
 		)
 		(instances
 			(project ""
