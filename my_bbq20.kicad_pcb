@@ -1695,7 +1695,7 @@
 		(property "Reference" "U2"
 			(at -5.1 -4.935 0)
 			(layer "B.SilkS")
-			(uuid "4fda06d0-463d-48b1-974a-5a0a7dc20875")
+			(uuid "1baf997d-f09d-44b4-9738-f0552a6d5b65")
 			(effects
 				(font
 					(size 1 1)
@@ -1707,7 +1707,7 @@
 		(property "Value" "~"
 			(at -6.1725 -3.8 0)
 			(layer "B.Fab")
-			(uuid "b85f69c6-14c1-4d3a-9805-4cf6333a6336")
+			(uuid "d85371db-7887-40e7-b189-698464bd3d2d")
 			(effects
 				(font
 					(size 1 1)
@@ -1720,7 +1720,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "24be6d1a-55b1-4e5f-89cf-becf1190eacc")
+			(uuid "c30c9d3e-d791-4cc0-a139-7dc605ea224e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1733,7 +1733,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e2d453f1-7418-40ec-a5e2-88468227f487")
+			(uuid "bbb15248-8a7a-42d4-8018-112b2f65bb78")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1746,7 +1746,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e2438f36-e5ec-44fe-8100-90d513c31922")
+			(uuid "05df681b-8e8c-4dc1-ba36-8a6374ead4ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1769,7 +1769,7 @@
 			)
 			(fill solid)
 			(layer "B.Paste")
-			(uuid "347cbd70-8d81-4911-82d6-7c66324ed326")
+			(uuid "e6e03a0c-b4a8-4a63-bee8-37487e23835d")
 		)
 		(fp_line
 			(start 3.5 3.02)
@@ -1779,7 +1779,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "985de040-6eca-4def-8bae-eb56bbd3e849")
+			(uuid "dfac8733-b4b3-4d5e-8017-53abcc909e44")
 		)
 		(fp_line
 			(start 3.5 -3.02)
@@ -1789,7 +1789,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6c416b52-d35d-423a-8b01-40c045db90e8")
+			(uuid "8a5601dd-8cf5-4be4-9edd-698a52b1ae43")
 		)
 		(fp_line
 			(start 3.02 3.5)
@@ -1799,7 +1799,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "972834a9-28d3-450d-b7b3-194f5420522c")
+			(uuid "1a437671-cf93-42d2-b631-7649827fbda2")
 		)
 		(fp_line
 			(start 3.02 -3.5)
@@ -1809,7 +1809,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "ea9ffc6a-1719-4812-8fcf-09b8a79f9521")
+			(uuid "dd4aecab-44b1-4fbe-81b5-210e5bbc7604")
 		)
 		(fp_line
 			(start -3.02 3.5)
@@ -1819,7 +1819,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "f4df730a-3eec-432d-9ae6-da2a261fb2e6")
+			(uuid "4ee88bfc-e3ae-4792-8df5-082e8a654b24")
 		)
 		(fp_line
 			(start -3.02 -3.5)
@@ -1829,7 +1829,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "6bd0d5a2-a07d-41cd-bea1-b24f0a00239d")
+			(uuid "828cb18d-c40b-4b0b-9638-bc07895c54f6")
 		)
 		(fp_line
 			(start -3.5 3.02)
@@ -1839,7 +1839,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "9156d23f-987a-4950-b37d-5fb67bb7bf30")
+			(uuid "0d3aecd8-0364-4512-b744-359bd1592d08")
 		)
 		(fp_line
 			(start -3.5 -3.02)
@@ -1849,7 +1849,7 @@
 				(type solid)
 			)
 			(layer "B.SilkS")
-			(uuid "820995da-aae5-4e0a-a549-ec7bda13a7ee")
+			(uuid "3a1a5617-cd8f-4907-be7f-6ee6a6e3b0df")
 		)
 		(fp_circle
 			(center -4.475 2.6)
@@ -1860,7 +1860,7 @@
 			)
 			(fill none)
 			(layer "B.SilkS")
-			(uuid "e468955a-b9f5-4a33-98b8-968c9c6b5106")
+			(uuid "7ebb6fb1-dcd1-44b5-b9eb-b8f5196e9487")
 		)
 		(fp_line
 			(start 4.105 4.105)
@@ -1870,7 +1870,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "a09a00dd-ef6c-42db-9529-40a4a50e4efd")
+			(uuid "dc734b8a-bf69-4936-b264-bf1c040d1538")
 		)
 		(fp_line
 			(start 4.105 4.105)
@@ -1880,7 +1880,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "891b11bf-5e6e-4860-bffe-d76e6ccfe165")
+			(uuid "e94d4c89-c1f6-4fa4-87d4-17462b96d045")
 		)
 		(fp_line
 			(start 4.105 -4.105)
@@ -1890,7 +1890,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "cb6a902d-b1bc-46f1-be0c-6b7a6f63003a")
+			(uuid "4c12475d-32c3-408e-bcd8-05aae10a3506")
 		)
 		(fp_line
 			(start -4.105 4.105)
@@ -1900,7 +1900,7 @@
 				(type solid)
 			)
 			(layer "B.CrtYd")
-			(uuid "2ba25cd2-bbf9-4aad-a1a0-26b9c03b6a79")
+			(uuid "fbbf6f79-ad92-4875-a817-a784308f6bf8")
 		)
 		(fp_line
 			(start 3.5 3.5)
@@ -1910,7 +1910,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "9d376e02-ab71-4e9b-9469-8194ea70de14")
+			(uuid "1aec2548-5a21-4563-8bfc-228a038674d9")
 		)
 		(fp_line
 			(start -3.5 3.5)
@@ -1920,7 +1920,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "6b562434-2205-47ae-9475-6743858e5928")
+			(uuid "73862e27-9977-4fdc-8f31-bfb1c58c951a")
 		)
 		(fp_line
 			(start -3.5 3.5)
@@ -1930,7 +1930,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "80e00fec-01cb-45f2-9c47-282d18d9708e")
+			(uuid "364d7ef0-e4ca-4c74-8de5-f148014cd1e9")
 		)
 		(fp_line
 			(start -3.5 -3.5)
@@ -1940,7 +1940,7 @@
 				(type solid)
 			)
 			(layer "B.Fab")
-			(uuid "0d91bde3-cc49-436f-806c-26d0328571cf")
+			(uuid "c0cec956-fd34-4d1e-8d7a-29efc9fd93a4")
 		)
 		(fp_circle
 			(center -4.475 2.6)
@@ -1951,7 +1951,7 @@
 			)
 			(fill none)
 			(layer "B.Fab")
-			(uuid "bdf108c9-27db-42aa-af4c-f3dde931d5b9")
+			(uuid "7b0ad6ea-fbb0-4507-8b34-fca5226dbae9")
 		)
 		(pad "1" smd roundrect
 			(at -3.435 2.6 180)
@@ -1962,7 +1962,7 @@
 			(pinfunction "IOVDD")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "8fc3c812-6458-4d6e-9cee-eef90761cad2")
+			(uuid "189f48ba-42b8-4ac3-b023-705573c7a065")
 		)
 		(pad "2" smd roundrect
 			(at -3.435 2.2 180)
@@ -1973,7 +1973,7 @@
 			(pinfunction "GPIO0")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "06c8fc6b-5310-4583-9d2f-aee0fb1af80c")
+			(uuid "66143a28-cf34-48ed-9065-a6155cef9477")
 		)
 		(pad "3" smd roundrect
 			(at -3.435 1.8 180)
@@ -1984,7 +1984,7 @@
 			(pinfunction "GPIO1")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "5cf3b3bd-31c3-4801-b9cf-9d85e517ad3a")
+			(uuid "5c9b57c8-4620-4f51-801f-696f2440e1ca")
 		)
 		(pad "4" smd roundrect
 			(at -3.435 1.4 180)
@@ -1995,7 +1995,7 @@
 			(pinfunction "GPIO2")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "a8a1519c-ea9c-48b2-9cc0-374742113d47")
+			(uuid "7f852b8a-0c2a-474e-9e77-a4855877db91")
 		)
 		(pad "5" smd roundrect
 			(at -3.435 1 180)
@@ -2006,7 +2006,7 @@
 			(pinfunction "GPIO3")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "b85a46b6-ec72-420f-a234-f4718bc10fef")
+			(uuid "5f1647af-06c8-4ad4-aabe-b81c51e76ec9")
 		)
 		(pad "6" smd roundrect
 			(at -3.435 0.6 180)
@@ -2017,7 +2017,7 @@
 			(pinfunction "GPIO4")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "ea6809b5-c755-474d-8fd5-b2cdb3bf3a35")
+			(uuid "5149d1be-b99b-4c0b-9b49-d873337048a7")
 		)
 		(pad "7" smd roundrect
 			(at -3.435 0.2 180)
@@ -2028,7 +2028,7 @@
 			(pinfunction "GPIO5")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "b48ba1ae-b849-46f6-849d-d24ce88d471a")
+			(uuid "1f8a75f4-3328-495d-a763-82bed7e05d79")
 		)
 		(pad "8" smd roundrect
 			(at -3.435 -0.2 180)
@@ -2039,7 +2039,7 @@
 			(pinfunction "GPIO6")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "5d217c05-4922-43a0-a198-d695d2cdd94f")
+			(uuid "b9070226-c27e-4b21-9afc-c371d1017505")
 		)
 		(pad "9" smd roundrect
 			(at -3.435 -0.6 180)
@@ -2050,7 +2050,7 @@
 			(pinfunction "GPIO7")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "79dfe1d8-dc29-4c85-ae79-840b06f96e2b")
+			(uuid "576ef94c-e750-4046-94a7-f98ee11982b9")
 		)
 		(pad "10" smd roundrect
 			(at -3.435 -1 180)
@@ -2061,7 +2061,7 @@
 			(pinfunction "IOVDD")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "ac82c88c-072f-430c-b648-4ce0274235c4")
+			(uuid "70ef0258-0f17-478e-af5d-9fa95d67c9b6")
 		)
 		(pad "11" smd roundrect
 			(at -3.435 -1.4 180)
@@ -2072,7 +2072,7 @@
 			(pinfunction "GPIO8")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "04e39a2c-4e74-4e4b-bd55-88a28a4343dc")
+			(uuid "18b777cf-23fe-4ce4-a2e3-e6400377cba3")
 		)
 		(pad "12" smd roundrect
 			(at -3.435 -1.8 180)
@@ -2083,7 +2083,7 @@
 			(pinfunction "GPIO9")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "98fdfa59-71f8-4458-a81f-b40dda77e77c")
+			(uuid "96e581b3-81d2-4ff0-bbeb-16323ba375ec")
 		)
 		(pad "13" smd roundrect
 			(at -3.435 -2.2 180)
@@ -2094,7 +2094,7 @@
 			(pinfunction "GPIO10")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "c9a5636a-2542-4c06-9f8d-4d8e8d0c0bcc")
+			(uuid "22f8d2ab-a075-4519-919b-ee82c60da2c3")
 		)
 		(pad "14" smd roundrect
 			(at -3.435 -2.6 180)
@@ -2105,7 +2105,7 @@
 			(pinfunction "GPIO11")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "c4ae5c07-7987-4b13-b258-39cae15d3dcc")
+			(uuid "4b4c3b90-c6a6-4525-8b3c-b095c00192bb")
 		)
 		(pad "15" smd roundrect
 			(at -2.6 -3.435 180)
@@ -2116,7 +2116,7 @@
 			(pinfunction "GPIO12")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "a3ae4ffa-9154-4e5e-8559-84f0dcdad501")
+			(uuid "4caa5200-7ef6-444d-bfcf-643824ab458f")
 		)
 		(pad "16" smd roundrect
 			(at -2.2 -3.435 180)
@@ -2127,7 +2127,7 @@
 			(pinfunction "GPIO13")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "bf301169-ee20-4aeb-b86c-86b6a8296853")
+			(uuid "3d9b6a3c-e070-40b4-9d43-e74ad05ea5bd")
 		)
 		(pad "17" smd roundrect
 			(at -1.8 -3.435 180)
@@ -2138,7 +2138,7 @@
 			(pinfunction "GPIO14")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "aae13363-5e31-4068-b958-84a0b1fad47e")
+			(uuid "37686ffd-e2d2-4b7f-a893-f1b24d7e4952")
 		)
 		(pad "18" smd roundrect
 			(at -1.4 -3.435 180)
@@ -2149,7 +2149,7 @@
 			(pinfunction "GPIO15")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "a6b15c83-bfea-46d4-a9f7-2cfc91341dca")
+			(uuid "9bac8fc2-5d98-4af2-bae0-323fd3183649")
 		)
 		(pad "19" smd roundrect
 			(at -1 -3.435 180)
@@ -2160,7 +2160,7 @@
 			(pinfunction "TESTEN")
 			(pintype "input+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "298de9b1-06a2-472d-8aea-d8efab895409")
+			(uuid "a53e2ceb-9c08-47c5-9469-49862d5839a5")
 		)
 		(pad "20" smd roundrect
 			(at -0.6 -3.435 180)
@@ -2171,7 +2171,7 @@
 			(pinfunction "XIN")
 			(pintype "input")
 			(solder_mask_margin 0.102)
-			(uuid "9632955d-2ea5-423b-9f4e-78b865e96ee4")
+			(uuid "4a0d9b0e-a865-4063-991c-a0ef75a6cd4e")
 		)
 		(pad "21" smd roundrect
 			(at -0.2 -3.435 180)
@@ -2182,7 +2182,7 @@
 			(pinfunction "XOUT")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "d93094c4-aea9-4e5f-98ff-6553459de10b")
+			(uuid "f58ba728-1be2-4665-bd68-f43dcf130bf0")
 		)
 		(pad "22" smd roundrect
 			(at 0.2 -3.435 180)
@@ -2193,7 +2193,7 @@
 			(pinfunction "IOVDD")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "03b1ab50-1f2f-45d1-834e-1cb670fc690f")
+			(uuid "549fe533-4485-412e-9485-8290188228bc")
 		)
 		(pad "23" smd roundrect
 			(at 0.6 -3.435 180)
@@ -2204,7 +2204,7 @@
 			(pinfunction "DVDD")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "7b9b6477-8fcf-4eca-bed7-14ad5ca7113e")
+			(uuid "b17af78d-85c6-4e3b-ae77-6781f94ed77a")
 		)
 		(pad "24" smd roundrect
 			(at 1 -3.435 180)
@@ -2215,7 +2215,7 @@
 			(pinfunction "SWCLK")
 			(pintype "input")
 			(solder_mask_margin 0.102)
-			(uuid "1b5c0f01-0b23-4a5e-95a1-a784710ae385")
+			(uuid "cf82c47b-d97b-4076-a2ab-5c3ce94198c4")
 		)
 		(pad "25" smd roundrect
 			(at 1.4 -3.435 180)
@@ -2226,7 +2226,7 @@
 			(pinfunction "SWD")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "a7948397-18d5-4799-9b74-c2a410633744")
+			(uuid "293c5d1c-e59d-4b5c-83a2-989fc985b709")
 		)
 		(pad "26" smd roundrect
 			(at 1.8 -3.435 180)
@@ -2237,7 +2237,7 @@
 			(pinfunction "RUN")
 			(pintype "input")
 			(solder_mask_margin 0.102)
-			(uuid "c075a42e-5db0-4760-a027-f14da417a583")
+			(uuid "d7c77c6b-9284-4e2f-805c-bd5642e3b83d")
 		)
 		(pad "27" smd roundrect
 			(at 2.2 -3.435 180)
@@ -2248,7 +2248,7 @@
 			(pinfunction "GPIO16")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "17cd0852-cc81-4bba-811a-5a1e03962dad")
+			(uuid "623ff04d-6ec0-4152-8779-c40de895ddfe")
 		)
 		(pad "28" smd roundrect
 			(at 2.6 -3.435 180)
@@ -2259,7 +2259,7 @@
 			(pinfunction "GPIO17")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "a84e8ddc-6b06-4e7d-a7f6-1ea6126354a4")
+			(uuid "6b4439e0-acc9-437e-8a98-59f08787701e")
 		)
 		(pad "29" smd roundrect
 			(at 3.435 -2.6 180)
@@ -2270,7 +2270,7 @@
 			(pinfunction "GPIO18")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "151c8f6c-9079-4f28-9150-6610019ec438")
+			(uuid "2c9c6b7f-d786-4c45-8f98-12beea5edc3c")
 		)
 		(pad "30" smd roundrect
 			(at 3.435 -2.2 180)
@@ -2281,7 +2281,7 @@
 			(pinfunction "GPIO19")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "9d8ec887-439e-4bad-930b-95e793650e12")
+			(uuid "49972700-698e-44f7-82c7-4f4ba686c551")
 		)
 		(pad "31" smd roundrect
 			(at 3.435 -1.8 180)
@@ -2292,7 +2292,7 @@
 			(pinfunction "GPIO20")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "92d9e5f1-b5ef-4eae-abfa-028ea23fc5d4")
+			(uuid "e7b7b4a9-3e6a-4987-b86e-55ff0a160ccc")
 		)
 		(pad "32" smd roundrect
 			(at 3.435 -1.4 180)
@@ -2303,7 +2303,7 @@
 			(pinfunction "GPIO21")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "b49825a0-89de-4c65-89e6-e9e7f64aab85")
+			(uuid "dcfee131-2d18-4e99-8a69-705489a3de64")
 		)
 		(pad "33" smd roundrect
 			(at 3.435 -1 180)
@@ -2314,7 +2314,7 @@
 			(pinfunction "IOVDD")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "0df65ff4-e1db-46b6-a3c1-20d960492ae2")
+			(uuid "15d66227-abd3-4c95-9b1c-22d20643df43")
 		)
 		(pad "34" smd roundrect
 			(at 3.435 -0.6 180)
@@ -2325,7 +2325,7 @@
 			(pinfunction "GPIO22")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "4aedb594-007a-427c-9188-ecc9b8e693e0")
+			(uuid "cf3276df-711e-4116-9bcb-726c06b88a4b")
 		)
 		(pad "35" smd roundrect
 			(at 3.435 -0.2 180)
@@ -2336,7 +2336,7 @@
 			(pinfunction "GPIO23")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "784471b2-fdc5-4354-afb8-a3bec539566e")
+			(uuid "c5e1486b-9335-4585-8000-7508742aa678")
 		)
 		(pad "36" smd roundrect
 			(at 3.435 0.2 180)
@@ -2347,7 +2347,7 @@
 			(pinfunction "GPIO24")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "7b8495f3-6886-497b-96e7-bed4d81adcf4")
+			(uuid "aac83ea1-b8b0-4c25-a9c7-4e1a9d27c84e")
 		)
 		(pad "37" smd roundrect
 			(at 3.435 0.6 180)
@@ -2358,7 +2358,7 @@
 			(pinfunction "GPIO25")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "1fec6c9b-fa9d-48de-87bb-ea1aa2166f6c")
+			(uuid "e77a6504-c80f-4603-a83c-d8d6033e16a4")
 		)
 		(pad "38" smd roundrect
 			(at 3.435 1 180)
@@ -2369,7 +2369,7 @@
 			(pinfunction "GPIO26_ADC0")
 			(pintype "bidirectional+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "a4cbd0e4-71f2-4e71-911e-6a794a84477d")
+			(uuid "d3ed374b-74ea-4d21-98e1-a79c744c7dfe")
 		)
 		(pad "39" smd roundrect
 			(at 3.435 1.4 180)
@@ -2380,7 +2380,7 @@
 			(pinfunction "GPIO27_ADC1")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "cefa13c7-e548-48b7-97ff-1ffe9e4af48c")
+			(uuid "c4c46822-d013-4795-adb6-8db8a8af90c9")
 		)
 		(pad "40" smd roundrect
 			(at 3.435 1.8 180)
@@ -2391,7 +2391,7 @@
 			(pinfunction "GPIO28_ADC2")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "14c0d63f-ae57-4b84-8990-06265211b255")
+			(uuid "2dc889a3-e852-4895-adda-2cd637a61a51")
 		)
 		(pad "41" smd roundrect
 			(at 3.435 2.2 180)
@@ -2402,7 +2402,7 @@
 			(pinfunction "GPIO29_ADC3")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "6e30df10-b786-4d3b-9c63-a54337992f89")
+			(uuid "a50a02a7-5d1c-4b54-9792-5be5bd1931d1")
 		)
 		(pad "42" smd roundrect
 			(at 3.435 2.6 180)
@@ -2413,7 +2413,7 @@
 			(pinfunction "IOVDD")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "481ba59e-8f5b-4b28-8d5e-e5587b75664c")
+			(uuid "99cb2542-15bb-4de8-b09e-77a3350908fd")
 		)
 		(pad "43" smd roundrect
 			(at 2.6 3.435 180)
@@ -2424,7 +2424,7 @@
 			(pinfunction "ADC_AVDD")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "307610dc-a11b-4871-8afb-c2a6d84235fb")
+			(uuid "ae52fd62-edce-4e1a-950a-9a89e673e42f")
 		)
 		(pad "44" smd roundrect
 			(at 2.2 3.435 180)
@@ -2435,7 +2435,7 @@
 			(pinfunction "VREG_IN")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "01c3e2b1-2441-4ba1-b6ac-5ba8e455d043")
+			(uuid "a1099d3a-4090-4bea-b819-3c515a3ff6a7")
 		)
 		(pad "45" smd roundrect
 			(at 1.8 3.435 180)
@@ -2446,7 +2446,7 @@
 			(pinfunction "VREG_VOUT")
 			(pintype "power_out")
 			(solder_mask_margin 0.102)
-			(uuid "0cc908fd-a6de-4769-acbb-4d0b3c6fabff")
+			(uuid "ab5b00c5-0659-475d-ab2b-1a4c94dcae74")
 		)
 		(pad "46" smd roundrect
 			(at 1.4 3.435 180)
@@ -2457,7 +2457,7 @@
 			(pinfunction "USB_D-")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "8541f279-1280-42e4-ada8-9d95c31db618")
+			(uuid "45b2374c-f3fb-4c4a-bd07-d32de14d583d")
 		)
 		(pad "47" smd roundrect
 			(at 1 3.435 180)
@@ -2468,7 +2468,7 @@
 			(pinfunction "USB_D+")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "2cef0abb-31ae-45e8-9885-1260d4cc6432")
+			(uuid "cccb43fa-f232-4a8a-87c4-8dcb80dc2f54")
 		)
 		(pad "48" smd roundrect
 			(at 0.6 3.435 180)
@@ -2479,7 +2479,7 @@
 			(pinfunction "USB_VDD")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "4ead308f-c23e-4694-8efd-387c25b518f8")
+			(uuid "7f4b372c-3606-4458-93c8-fc9cb8bbe3a5")
 		)
 		(pad "49" smd roundrect
 			(at 0.2 3.435 180)
@@ -2490,7 +2490,7 @@
 			(pinfunction "IOVDD")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "2d42a4f2-0edf-441d-a08f-d175a0414947")
+			(uuid "cf03b0aa-bbb7-4c0d-93dd-23a05e3693f3")
 		)
 		(pad "50" smd roundrect
 			(at -0.2 3.435 180)
@@ -2501,7 +2501,7 @@
 			(pinfunction "DVDD")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
-			(uuid "6858d19b-6d8f-4bce-a243-6f2ecec74414")
+			(uuid "b64b30a1-edcc-4f12-84dd-dadec7c76693")
 		)
 		(pad "51" smd roundrect
 			(at -0.6 3.435 180)
@@ -2512,7 +2512,7 @@
 			(pinfunction "QSPI_SD3")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "25ecb43e-c17b-456e-8cf4-d4e6c6d47cf6")
+			(uuid "656c1be5-7c19-4643-8fa9-b95454fd54cc")
 		)
 		(pad "52" smd roundrect
 			(at -1 3.435 180)
@@ -2523,7 +2523,7 @@
 			(pinfunction "QSPI_SCLK")
 			(pintype "output")
 			(solder_mask_margin 0.102)
-			(uuid "d97d05d6-a13b-4b0a-bb60-25722f03bf86")
+			(uuid "a1709e9f-7c06-4c0c-bb09-ae71fee9e835")
 		)
 		(pad "53" smd roundrect
 			(at -1.4 3.435 180)
@@ -2534,7 +2534,7 @@
 			(pinfunction "QSPI_SD0")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "2f2a323e-9c4c-4aac-bf11-ff96dafc8ae7")
+			(uuid "94143f6a-958c-47b2-850f-82f63a04c174")
 		)
 		(pad "54" smd roundrect
 			(at -1.8 3.435 180)
@@ -2545,7 +2545,7 @@
 			(pinfunction "QSPI_SD2")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "81ef6c0a-60c4-4e70-a64f-859b24305573")
+			(uuid "cd2d5d29-fc2d-47aa-b610-e26a19887a67")
 		)
 		(pad "55" smd roundrect
 			(at -2.2 3.435 180)
@@ -2556,7 +2556,7 @@
 			(pinfunction "QSPI_SD1")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "558e4242-4eb1-4224-bc0e-3a6766c8cef3")
+			(uuid "a9b7a572-3b7f-4ce1-9cf9-8ab3db063f5b")
 		)
 		(pad "56" smd roundrect
 			(at -2.6 3.435 180)
@@ -2567,7 +2567,7 @@
 			(pinfunction "QSPI_SS")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "5738e3ad-8250-49dd-a3f8-103c8c256743")
+			(uuid "5cb49bf9-f002-496c-8532-0ffb3100471d")
 		)
 		(pad "57" smd rect
 			(at 0 0 180)
@@ -2577,7 +2577,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "dabe6e90-bdcf-4bac-ac8c-a6cf967095cd")
+			(uuid "f9b30e79-e089-4265-8763-df30426c5f90")
 		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
@@ -11234,7 +11234,7 @@
 		(descr "SMD pad as test Point, diameter 1.5mm")
 		(tags "test point SMD pad")
 		(property "Reference" "RST"
-			(at -4.2 0.066667 270)
+			(at -4.2 0.066667 -90)
 			(layer "B.SilkS")
 			(uuid "1333bd4b-7077-4d76-9fbf-df219c0c9807")
 			(effects
@@ -17024,6 +17024,16 @@
 		(uuid "0247e4a2-f5e8-41ce-9cc5-0ac1dfba80ce")
 	)
 	(gr_line
+		(start 69.75 58.5)
+		(end 60.75 58.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0cb7e844-bd77-4411-ac99-d108719866ba")
+	)
+	(gr_line
 		(start 130.5 52.5)
 		(end 130.5 92.5)
 		(stroke
@@ -17032,6 +17042,17 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "0ec2c2cd-07ac-400d-a007-4bcaeb949fe8")
+	)
+	(gr_arc
+		(start 69.75 53.5)
+		(mid 70.28033 53.71967)
+		(end 70.5 54.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "102a0d24-88f1-45d3-a74a-33d65b879812")
 	)
 	(gr_arc
 		(start 60.15 77.7)
@@ -17054,6 +17075,17 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "36417ae6-7ac6-468f-8588-51aa123f4fce")
+	)
+	(gr_arc
+		(start 70.5 57.75)
+		(mid 70.28033 58.28033)
+		(end 69.75 58.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5333ae77-1ff3-48ae-80c2-ccd62cd1f97d")
 	)
 	(gr_line
 		(start 60.15 77.7)
@@ -17130,6 +17162,27 @@
 		(layer "Edge.Cuts")
 		(uuid "a9d215fb-54fd-4956-8205-04577c73e412")
 	)
+	(gr_arc
+		(start 60.75 58.5)
+		(mid 60.21967 58.28033)
+		(end 60 57.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b444f266-da3e-4e0b-8868-882302871f01")
+	)
+	(gr_line
+		(start 70.5 54.25)
+		(end 70.5 57.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "be26d25e-8b92-47e7-abd7-b29c88f63d11")
+	)
 	(gr_line
 		(start 55.5 92.5)
 		(end 55.5 52.5)
@@ -17139,6 +17192,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "c5dfb789-f5af-4bc8-a2c4-9b272e5206ac")
+	)
+	(gr_line
+		(start 60.75 53.5)
+		(end 69.75 53.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c5f8dc24-e077-47f3-973c-c1d09d3b04e4")
 	)
 	(gr_arc
 		(start 130.5 92.5)
@@ -17180,6 +17243,27 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ef552acf-2cb7-4738-9071-2e29e3c79963")
+	)
+	(gr_line
+		(start 60 57.75)
+		(end 60 54.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f44edeb6-2c42-4619-91aa-8250dfb91340")
+	)
+	(gr_arc
+		(start 60 54.25)
+		(mid 60.21967 53.71967)
+		(end 60.75 53.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fb9e331e-601a-4c85-8a59-8875959ba09c")
 	)
 	(segment
 		(start 92.23 56.545)
@@ -17511,6 +17595,15 @@
 		(uuid "8808a1d3-21f5-459f-9323-9962cbcb12ab")
 	)
 	(via
+		(at 79.5 66.5)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "987a241c-6ef9-47e5-b6ae-6d561a715881")
+	)
+	(via
 		(at 103.15 79.3)
 		(size 0.6)
 		(drill 0.3)
@@ -17582,6 +17675,15 @@
 		(uuid "b0ec9ceb-448e-406f-b94a-78926d19479a")
 	)
 	(via
+		(at 65.25 70.75)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "b36da1ef-3891-43cb-aaf9-141903c97470")
+	)
+	(via
 		(at 120.5 64.6)
 		(size 0.8)
 		(drill 0.4)
@@ -17607,6 +17709,15 @@
 		(free yes)
 		(net 2)
 		(uuid "bd8e5dd5-0f64-4eca-88ba-951d291f51e4")
+	)
+	(via
+		(at 79.5 69.75)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 2)
+		(uuid "bdd8986c-fdd2-4f56-b310-b09ab26ece3d")
 	)
 	(via
 		(at 58.25 76.1)
@@ -24789,22 +24900,22 @@
 				(xy 119.860883 59.560883) (xy 119.98591 59.408538) (xy 120.068639 59.253764) (xy 120.078812 59.234731)
 				(xy 120.078812 59.23473) (xy 120.078814 59.234727) (xy 120.136024 59.046132) (xy 120.155341 58.85)
 				(xy 120.136024 58.653868) (xy 120.078814 58.465273) (xy 120.078812 58.46527) (xy 120.078812 58.465268)
-				(xy 120.017199 58.35) (xy 119.98591 58.291462) (xy 119.860883 58.139117) (xy 119.708538 58.01409)
+				(xy 120.0044 58.326054) (xy 119.98591 58.291462) (xy 119.860883 58.139117) (xy 119.708538 58.01409)
 				(xy 119.698597 58.008776) (xy 119.534731 57.921187) (xy 119.346133 57.863976) (xy 119.15 57.844659)
 				(xy 118.953866 57.863976) (xy 118.765268 57.921187) (xy 118.591463 58.014089) (xy 118.439117 58.139117)
 				(xy 118.314089 58.291463) (xy 118.221187 58.465268) (xy 118.163976 58.653866) (xy 118.144659 58.85)
 				(xy 117.615341 58.85) (xy 117.596024 58.653868) (xy 117.538814 58.465273) (xy 117.538812 58.46527)
-				(xy 117.538812 58.465268) (xy 117.477199 58.35) (xy 117.44591 58.291462) (xy 117.320883 58.139117)
+				(xy 117.538812 58.465268) (xy 117.4644 58.326054) (xy 117.44591 58.291462) (xy 117.320883 58.139117)
 				(xy 117.168538 58.01409) (xy 117.158597 58.008776) (xy 116.994731 57.921187) (xy 116.806133 57.863976)
 				(xy 116.61 57.844659) (xy 116.413866 57.863976) (xy 116.225268 57.921187) (xy 116.051463 58.014089)
 				(xy 115.899117 58.139117) (xy 115.774089 58.291463) (xy 115.681187 58.465268) (xy 115.623976 58.653866)
 				(xy 115.604659 58.85) (xy 115.075341 58.85) (xy 115.056024 58.653868) (xy 114.998814 58.465273)
-				(xy 114.998812 58.46527) (xy 114.998812 58.465268) (xy 114.937199 58.35) (xy 114.90591 58.291462)
+				(xy 114.998812 58.46527) (xy 114.998812 58.465268) (xy 114.9244 58.326054) (xy 114.90591 58.291462)
 				(xy 114.780883 58.139117) (xy 114.628538 58.01409) (xy 114.618597 58.008776) (xy 114.454731 57.921187)
 				(xy 114.266133 57.863976) (xy 114.07 57.844659) (xy 113.873866 57.863976) (xy 113.685268 57.921187)
 				(xy 113.511463 58.014089) (xy 113.359117 58.139117) (xy 113.234089 58.291463) (xy 113.141187 58.465268)
 				(xy 113.083976 58.653866) (xy 113.064659 58.85) (xy 112.535341 58.85) (xy 112.516024 58.653868)
-				(xy 112.458814 58.465273) (xy 112.458812 58.46527) (xy 112.458812 58.465268) (xy 112.397199 58.35)
+				(xy 112.458814 58.465273) (xy 112.458812 58.46527) (xy 112.458812 58.465268) (xy 112.3844 58.326054)
 				(xy 112.36591 58.291462) (xy 112.240883 58.139117) (xy 112.088538 58.01409) (xy 112.078597 58.008776)
 				(xy 111.914731 57.921187) (xy 111.726133 57.863976) (xy 111.53 57.844659) (xy 111.333866 57.863976)
 				(xy 111.145268 57.921187) (xy 110.971463 58.014089) (xy 110.819117 58.139117) (xy 110.694089 58.291463)
@@ -24869,7 +24980,13 @@
 				(xy 60.009521 62.064834) (xy 59.933795 62.082118) (xy 59.933791 62.08212) (xy 59.801725 62.145719)
 				(xy 59.801724 62.14572) (xy 59.687121 62.237113) (xy 59.687113 62.237121) (xy 59.59572 62.351724)
 				(xy 59.595719 62.351725) (xy 59.53212 62.483791) (xy 59.532118 62.483795) (xy 59.516109 62.553937)
-				(xy 59.4995 62.626706) (xy 55.7505 62.626706) (xy 55.7505 55.011057) (xy 89.66 55.011057) (xy 89.66 55.38)
+				(xy 59.4995 62.626706) (xy 55.7505 62.626706) (xy 55.7505 54.162464) (xy 59.7495 54.162464) (xy 59.7495 57.837535)
+				(xy 59.779898 58.009937) (xy 59.839773 58.174441) (xy 59.839774 58.174443) (xy 59.839775 58.174445)
+				(xy 59.927308 58.326055) (xy 60.039837 58.460163) (xy 60.173945 58.572692) (xy 60.325555 58.660225)
+				(xy 60.490062 58.720101) (xy 60.662468 58.7505) (xy 60.662472 58.7505) (xy 69.837528 58.7505) (xy 69.837532 58.7505)
+				(xy 70.009938 58.720101) (xy 70.174445 58.660225) (xy 70.326055 58.572692) (xy 70.460163 58.460163)
+				(xy 70.572692 58.326055) (xy 70.660225 58.174445) (xy 70.720101 58.009938) (xy 70.7505 57.837532)
+				(xy 70.7505 57.75) (xy 70.7505 57.70583) (xy 70.7505 55.011057) (xy 89.66 55.011057) (xy 89.66 55.38)
 				(xy 90.06 55.38) (xy 90.06 55.88) (xy 89.66 55.88) (xy 89.66 56.248942) (xy 89.686899 56.384176)
 				(xy 89.686902 56.384186) (xy 89.739667 56.511573) (xy 89.816273 56.626223) (xy 89.913776 56.723726)
 				(xy 90.028426 56.800332) (xy 90.109999 56.834119) (xy 90.11 56.834119) (xy 90.11 56.346988) (xy 90.11994 56.364205)
@@ -24898,7 +25015,13 @@
 				(xy 90.11994 54.895795) (xy 90.11 54.913011) (xy 90.11 54.425879) (xy 90.109999 54.425878) (xy 90.028425 54.459668)
 				(xy 89.913776 54.536273) (xy 89.913775 54.536275) (xy 89.816275 54.633775) (xy 89.816273 54.633776)
 				(xy 89.739667 54.748426) (xy 89.686902 54.875813) (xy 89.686899 54.875823) (xy 89.66 55.011057)
-				(xy 55.7505 55.011057) (xy 55.7505 52.501819) (xy 55.750589 52.498188) (xy 55.760154 52.303488)
+				(xy 70.7505 55.011057) (xy 70.7505 54.200172) (xy 70.7505 54.162468) (xy 70.720101 53.990062) (xy 70.660225 53.825555)
+				(xy 70.572692 53.673945) (xy 70.460163 53.539837) (xy 70.326055 53.427308) (xy 70.174445 53.339775)
+				(xy 70.174443 53.339774) (xy 70.174441 53.339773) (xy 70.009937 53.279898) (xy 69.837535 53.2495)
+				(xy 69.837532 53.2495) (xy 69.799828 53.2495) (xy 60.79417 53.2495) (xy 60.75 53.2495) (xy 60.662468 53.2495)
+				(xy 60.662464 53.2495) (xy 60.490062 53.279898) (xy 60.325558 53.339773) (xy 60.173945 53.427308)
+				(xy 60.039837 53.539837) (xy 59.927308 53.673945) (xy 59.839773 53.825558) (xy 59.779898 53.990062)
+				(xy 59.7495 54.162464) (xy 55.7505 54.162464) (xy 55.7505 52.501819) (xy 55.750589 52.498188) (xy 55.760154 52.303488)
 				(xy 55.768377 52.136097) (xy 55.769086 52.128903) (xy 55.822013 51.772097) (xy 55.82343 51.764979)
 				(xy 55.911072 51.415087) (xy 55.913169 51.408176) (xy 56.030214 51.081057) (xy 89.66 51.081057)
 				(xy 89.66 51.2) (xy 90.06 51.2) (xy 90.06 51.7) (xy 89.66 51.7) (xy 89.66 51.818942) (xy 89.686899 51.954176)
@@ -26806,36 +26929,48 @@
 				(xy 60.010067 62.06471) (xy 59.933795 62.082118) (xy 59.933791 62.08212) (xy 59.801725 62.145719)
 				(xy 59.801724 62.14572) (xy 59.687121 62.237113) (xy 59.687113 62.237121) (xy 59.59572 62.351724)
 				(xy 59.595719 62.351725) (xy 59.53212 62.483791) (xy 59.532118 62.483795) (xy 59.514928 62.559111)
-				(xy 59.4995 62.626706) (xy 55.7505 62.626706) (xy 55.7505 54.433224) (xy 75.625001 54.433224) (xy 75.634912 54.50125)
+				(xy 59.4995 62.626706) (xy 55.7505 62.626706) (xy 55.7505 54.162464) (xy 59.7495 54.162464) (xy 59.7495 57.837535)
+				(xy 59.779898 58.009937) (xy 59.839773 58.174441) (xy 59.839774 58.174443) (xy 59.839775 58.174445)
+				(xy 59.927308 58.326055) (xy 60.039837 58.460163) (xy 60.173945 58.572692) (xy 60.325555 58.660225)
+				(xy 60.490062 58.720101) (xy 60.662468 58.7505) (xy 60.662472 58.7505) (xy 69.837528 58.7505) (xy 69.837532 58.7505)
+				(xy 70.009938 58.720101) (xy 70.174445 58.660225) (xy 70.326055 58.572692) (xy 70.460163 58.460163)
+				(xy 70.572692 58.326055) (xy 70.660225 58.174445) (xy 70.720101 58.009938) (xy 70.7505 57.837532)
+				(xy 70.7505 57.75) (xy 70.7505 57.70583) (xy 70.7505 54.433224) (xy 75.625001 54.433224) (xy 75.634912 54.50125)
 				(xy 75.686213 54.606188) (xy 75.768811 54.688786) (xy 75.873751 54.740088) (xy 75.874999 54.740269)
 				(xy 76.375 54.740269) (xy 76.376247 54.740088) (xy 76.376249 54.740088) (xy 76.481188 54.688786)
 				(xy 76.563785 54.606189) (xy 76.615087 54.501249) (xy 76.624999 54.433223) (xy 76.625 54.433212)
 				(xy 76.625 53.95) (xy 76.375 53.95) (xy 76.375 54.740269) (xy 75.874999 54.740269) (xy 75.875 54.740268)
-				(xy 75.875 53.95) (xy 75.625001 53.95) (xy 75.625001 54.433224) (xy 55.7505 54.433224) (xy 55.7505 52.966776)
-				(xy 75.625 52.966776) (xy 75.625 53.45) (xy 75.875 53.45) (xy 76.375 53.45) (xy 76.624999 53.45)
-				(xy 76.624999 52.966789) (xy 76.624998 52.966775) (xy 76.615087 52.898749) (xy 76.563786 52.793811)
-				(xy 76.481189 52.711214) (xy 76.376248 52.659912) (xy 76.376251 52.659912) (xy 76.375 52.65973)
-				(xy 76.375 53.45) (xy 75.875 53.45) (xy 75.875 52.65973) (xy 75.873749 52.659912) (xy 75.76881 52.711214)
-				(xy 75.686214 52.79381) (xy 75.634912 52.89875) (xy 75.625 52.966776) (xy 55.7505 52.966776) (xy 55.7505 52.501819)
-				(xy 55.750589 52.498188) (xy 55.760154 52.303488) (xy 55.768377 52.136097) (xy 55.769086 52.128903)
-				(xy 55.822013 51.772097) (xy 55.82343 51.764979) (xy 55.911072 51.415087) (xy 55.913169 51.408176)
-				(xy 56.034693 51.068539) (xy 56.037463 51.061851) (xy 56.191687 50.735772) (xy 56.195093 50.729399)
-				(xy 56.380543 50.419995) (xy 56.384567 50.413972) (xy 56.599437 50.124253) (xy 56.604041 50.118645)
-				(xy 56.62518 50.095322) (xy 56.846273 49.851383) (xy 56.851383 49.846273) (xy 57.118649 49.604036)
-				(xy 57.124258 49.599434) (xy 57.270152 49.491232) (xy 57.413972 49.384567) (xy 57.419995 49.380543)
-				(xy 57.440121 49.36848) (xy 73.6245 49.36848) (xy 73.6245 51.631519) (xy 73.639353 51.725304) (xy 73.639354 51.725306)
-				(xy 73.687065 51.818942) (xy 73.69695 51.838342) (xy 73.786658 51.92805) (xy 73.899696 51.985646)
-				(xy 73.993481 52.0005) (xy 74.556518 52.000499) (xy 74.556519 52.000499) (xy 74.650304 51.985646)
-				(xy 74.650306 51.985645) (xy 74.666032 51.977632) (xy 74.763342 51.92805) (xy 74.85305 51.838342)
-				(xy 74.910646 51.725304) (xy 74.9255 51.631519) (xy 74.925499 49.368482) (xy 74.910646 49.274696)
-				(xy 74.910646 49.274695) (xy 74.910645 49.274693) (xy 74.88077 49.216061) (xy 74.85305 49.161658)
-				(xy 74.763342 49.07195) (xy 74.650304 49.014354) (xy 74.650302 49.014353) (xy 74.650301 49.014353)
-				(xy 74.556519 48.9995) (xy 73.99348 48.9995) (xy 73.899695 49.014353) (xy 73.899693 49.014354) (xy 73.786657 49.07195)
-				(xy 73.696951 49.161656) (xy 73.639353 49.274698) (xy 73.6245 49.36848) (xy 57.440121 49.36848)
-				(xy 57.729399 49.195093) (xy 57.735772 49.191687) (xy 58.061851 49.037463) (xy 58.068539 49.034693)
-				(xy 58.408176 48.913169) (xy 58.415087 48.911072) (xy 58.764983 48.823429) (xy 58.772097 48.822013)
-				(xy 59.128903 48.769086) (xy 59.136097 48.768377) (xy 59.498188 48.750588) (xy 59.501819 48.7505)
-				(xy 59.54417 48.7505) (xy 126.45583 48.7505) (xy 126.498181 48.7505)
+				(xy 75.875 53.95) (xy 75.625001 53.95) (xy 75.625001 54.433224) (xy 70.7505 54.433224) (xy 70.7505 54.200172)
+				(xy 70.7505 54.162468) (xy 70.720101 53.990062) (xy 70.660225 53.825555) (xy 70.572692 53.673945)
+				(xy 70.460163 53.539837) (xy 70.326055 53.427308) (xy 70.174445 53.339775) (xy 70.174443 53.339774)
+				(xy 70.174441 53.339773) (xy 70.009937 53.279898) (xy 69.837535 53.2495) (xy 69.837532 53.2495)
+				(xy 69.799828 53.2495) (xy 60.79417 53.2495) (xy 60.75 53.2495) (xy 60.662468 53.2495) (xy 60.662464 53.2495)
+				(xy 60.490062 53.279898) (xy 60.325558 53.339773) (xy 60.173945 53.427308) (xy 60.039837 53.539837)
+				(xy 59.927308 53.673945) (xy 59.839773 53.825558) (xy 59.779898 53.990062) (xy 59.7495 54.162464)
+				(xy 55.7505 54.162464) (xy 55.7505 52.966776) (xy 75.625 52.966776) (xy 75.625 53.45) (xy 75.875 53.45)
+				(xy 76.375 53.45) (xy 76.624999 53.45) (xy 76.624999 52.966789) (xy 76.624998 52.966775) (xy 76.615087 52.898749)
+				(xy 76.563786 52.793811) (xy 76.481189 52.711214) (xy 76.376248 52.659912) (xy 76.376251 52.659912)
+				(xy 76.375 52.65973) (xy 76.375 53.45) (xy 75.875 53.45) (xy 75.875 52.65973) (xy 75.873749 52.659912)
+				(xy 75.76881 52.711214) (xy 75.686214 52.79381) (xy 75.634912 52.89875) (xy 75.625 52.966776) (xy 55.7505 52.966776)
+				(xy 55.7505 52.501819) (xy 55.750589 52.498188) (xy 55.760154 52.303488) (xy 55.768377 52.136097)
+				(xy 55.769086 52.128903) (xy 55.822013 51.772097) (xy 55.82343 51.764979) (xy 55.911072 51.415087)
+				(xy 55.913169 51.408176) (xy 56.034693 51.068539) (xy 56.037463 51.061851) (xy 56.191687 50.735772)
+				(xy 56.195093 50.729399) (xy 56.380543 50.419995) (xy 56.384567 50.413972) (xy 56.599437 50.124253)
+				(xy 56.604041 50.118645) (xy 56.62518 50.095322) (xy 56.846273 49.851383) (xy 56.851383 49.846273)
+				(xy 57.118649 49.604036) (xy 57.124258 49.599434) (xy 57.270152 49.491232) (xy 57.413972 49.384567)
+				(xy 57.419995 49.380543) (xy 57.440121 49.36848) (xy 73.6245 49.36848) (xy 73.6245 51.631519) (xy 73.639353 51.725304)
+				(xy 73.639354 51.725306) (xy 73.687065 51.818942) (xy 73.69695 51.838342) (xy 73.786658 51.92805)
+				(xy 73.899696 51.985646) (xy 73.993481 52.0005) (xy 74.556518 52.000499) (xy 74.556519 52.000499)
+				(xy 74.650304 51.985646) (xy 74.650306 51.985645) (xy 74.666032 51.977632) (xy 74.763342 51.92805)
+				(xy 74.85305 51.838342) (xy 74.910646 51.725304) (xy 74.9255 51.631519) (xy 74.925499 49.368482)
+				(xy 74.910646 49.274696) (xy 74.910646 49.274695) (xy 74.910645 49.274693) (xy 74.88077 49.216061)
+				(xy 74.85305 49.161658) (xy 74.763342 49.07195) (xy 74.650304 49.014354) (xy 74.650302 49.014353)
+				(xy 74.650301 49.014353) (xy 74.556519 48.9995) (xy 73.99348 48.9995) (xy 73.899695 49.014353) (xy 73.899693 49.014354)
+				(xy 73.786657 49.07195) (xy 73.696951 49.161656) (xy 73.639353 49.274698) (xy 73.6245 49.36848)
+				(xy 57.440121 49.36848) (xy 57.729399 49.195093) (xy 57.735772 49.191687) (xy 58.061851 49.037463)
+				(xy 58.068539 49.034693) (xy 58.408176 48.913169) (xy 58.415087 48.911072) (xy 58.764983 48.823429)
+				(xy 58.772097 48.822013) (xy 59.128903 48.769086) (xy 59.136097 48.768377) (xy 59.498188 48.750588)
+				(xy 59.501819 48.7505) (xy 59.54417 48.7505) (xy 126.45583 48.7505) (xy 126.498181 48.7505)
 			)
 		)
 	)
